@@ -20,3 +20,4 @@ modeSwitch.addEventListener('click',()=>{
         modeText.innerText="Dark mode"
     }
 })
+console.log("2023新年快乐");
